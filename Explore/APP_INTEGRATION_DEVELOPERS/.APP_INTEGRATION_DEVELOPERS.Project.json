@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "5ymcq2Rp9XGbcAXwY1GRiw",
+    "name" : "APP_INTEGRATION_DEVELOPERS",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
